@@ -4,14 +4,14 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=perf kugo Kernel by dibin
+kernel.string=whatwursts Kernel by dibin
 do.devicecheck=1
 do.modules=0
 do.systemless=0
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=kugo
-device.name2=
+device.name1=maple_dsds
+device.name2=maple
 device.name3=
 device.name4=
 device.name5=
